@@ -1,0 +1,15 @@
+# Ignore datasets and large artifacts
+*.csv
+*.parquet
+*.feather
+artifacts/*
+*.pt
+*.pth
+*.joblib
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.env
+.env.*
+.venv
+venv
