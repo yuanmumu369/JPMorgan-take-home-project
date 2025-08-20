@@ -8,6 +8,11 @@ notebooks/modeling.ipynb — builds a leakage-aware baseline (train/valid split 
 
 How to Run
 
+
+!!!!! Please create a new folder called data, and place the two csv files in there !!!!!!!!
+
+
+
 Ensure Python 3.10+ and the following packages: pandas, numpy, matplotlib, scikit-learn. and correct requirments
 
 Place the training CSV in the expected path or adjust the read path at the top of each notebook.
